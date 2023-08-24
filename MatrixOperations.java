@@ -77,6 +77,7 @@ public class MatrixOperations{
                     System.out.println("Choose one of the available options.");
             }
         }
+        input.close();
     }
 
     public void displayMultiplyedMatrix(int[][] matrix) {
@@ -293,7 +294,6 @@ public class MatrixOperations{
         return joinedMatrix;
     }
 
-    input.close();
 }
 
 
