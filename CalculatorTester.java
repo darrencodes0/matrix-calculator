@@ -42,6 +42,7 @@ public class CalculatorTester {
         }
         long stopTime = System.currentTimeMillis();
         System.out.println("You've been using the Calculator App for " + (stopTime - startTime) + " ms");
+        input.close();
     }
 
 
