@@ -1,2 +1,3 @@
-# calculator-program
-Text-based calculator program with basic arithmetic and matrice operations
+#### Text-based calculator program with 
+- arithmetic operations
+- matrice operations
