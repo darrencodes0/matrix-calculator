@@ -1,4 +1,4 @@
-#### Text-based calculator program with 
+#### Text-based Java calculator program with 
 - arithmetic operations
 - matrice operations
 
